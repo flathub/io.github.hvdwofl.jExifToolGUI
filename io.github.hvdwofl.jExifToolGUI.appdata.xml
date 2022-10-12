@@ -1,10 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop">
   <!--Created with jdAppdataEdit 3.3-->
   <id>io.github.hvdwofl.jExifToolGUI</id>
   <name>jExifToolGUI</name>
   <summary>Simple frontend for the ExifTool</summary>
-  <developer_name></developer_name>
+  <developer_name/>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>MIT</project_license>
   <update_contact>tobiasmue@gnome.org</update_contact>
