@@ -114,8 +114,8 @@ modules:
         path: io.github.hvdwofl.jExifToolGUI.png
 
       - type: file
-        url: https://github.com/hvdwolf/jExifToolGUI/releases/download/2.0.1/jExifToolGUI.jar
-        sha256: 3478bc6f05136b1cd895954f49a48d4ec789020be6c6f2283deebc3228650929
+        url: https://github.com/hvdwolf/jExifToolGUI/releases/download/2.0.2/jExifToolGUI.jar
+        sha256: 7d96c39811547f8689a9ee20ef1610372254146263ac4792dbb2663daae7ae73
         x-checker-data:
           type: json
           url: https://api.github.com/repos/hvdwolf/jExifToolGUI/releases/latest
