@@ -84,8 +84,8 @@ modules:
         sources:
           - type: git
             url: https://github.com/Perl/perl5.git
-            tag: v5.38.0
-            commit: 76298ae68aa7796f0ffc05095b127d23f4b2de8f
+            tag: v5.38.1
+            commit: 8fddb434ae0d0353473456561ec6b844580ff726
             disable-fsckobjects: true
             x-checker-data:
               type: git
