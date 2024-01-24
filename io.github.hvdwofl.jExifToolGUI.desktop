@@ -9,5 +9,5 @@ Exec=jExifToolGUI %U
 Terminal=false
 #MimeType=images
 StartupNotify=true
-Categories=Images;Pictures;
+Categories=Graphics
 Keywords=EXIF;exiv;metadata;jpg;jpeg;
