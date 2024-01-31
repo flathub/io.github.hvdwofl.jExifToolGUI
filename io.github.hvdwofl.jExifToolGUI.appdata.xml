@@ -4,7 +4,7 @@
   <id>io.github.hvdwofl.jExifToolGUI</id>
   <name>jExifToolGUI</name>
   <summary>Simple frontend for the ExifTool</summary>
-  <developer_name/>
+  <developer_name>HvdWolf</developer_name>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>MIT</project_license>
   <update_contact>tobiasmue@gnome.org</update_contact>
@@ -28,7 +28,7 @@
       <image type="source">https://hvdwolf.github.io/jExifToolGUI/screenshots/ExtraMenu.png</image>
     </screenshot>
     <screenshot type="default">
-      <caption>Geotagging</caption>
+      <caption>Geotagging support</caption>
       <image type="source">https://hvdwolf.github.io/jExifToolGUI/screenshots/LinuxGeotagging-x600.jpg</image>
     </screenshot>
   </screenshots>
