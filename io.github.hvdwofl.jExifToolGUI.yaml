@@ -34,8 +34,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/exiftool/exiftool.git
-        tag: '12.76'
-        commit: 212f02cf22b9484674752181cad3b73089ce9694
+        tag: '12.84'
+        commit: 2b84c5baafa902e7092f2cbe8679cd904c2e183d
         x-checker-data:
           type: git
           tag-pattern: ^(\d+\.\d+[02468])$
