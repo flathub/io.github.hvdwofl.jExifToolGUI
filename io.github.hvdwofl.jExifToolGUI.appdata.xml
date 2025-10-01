@@ -2,6 +2,7 @@
 <component type="desktop">
   <!--Created with jdAppdataEdit 3.3-->
   <id>io.github.hvdwofl.jExifToolGUI</id>
+  <launchable>io.github.hvdwofl.jExifToolGUI.desktop</launchable>
   <name>jExifToolGUI</name>
   <summary>Simple frontend for the ExifTool</summary>
   <developer_name>HvdWolf</developer_name>
