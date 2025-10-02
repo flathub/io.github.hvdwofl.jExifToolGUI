@@ -4,9 +4,7 @@
   <id>io.github.hvdwofl.jExifToolGUI</id>
   <name>jExifToolGUI</name>
   <summary>Simple frontend for the ExifTool</summary>
-  <developer>
-    <name>HvdWolf</name>
-  </developer>
+  <developer_name>HvdWolf</developer_name>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>MIT</project_license>
   <update_contact>tobiasmue@gnome.org</update_contact>
